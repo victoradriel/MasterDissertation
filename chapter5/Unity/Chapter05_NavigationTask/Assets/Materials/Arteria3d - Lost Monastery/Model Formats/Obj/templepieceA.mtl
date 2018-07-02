@@ -1,0 +1,34 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.26
+# URL: http://www.unwrap3d.com
+# Time: Thu Nov 04 20:25:45 2010
+# num_materials: 3
+
+newmtl StoneTiled
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.150000 0.150000 0.150000
+d 1.000000
+illum 2
+Ns 0.007813
+map_Kd StoneTiled.dds
+
+newmtl b_one
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_one.dds
+
+newmtl MonFloor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 0.007813
+map_Kd MonFloor.dds
+
+# num_materials: 3

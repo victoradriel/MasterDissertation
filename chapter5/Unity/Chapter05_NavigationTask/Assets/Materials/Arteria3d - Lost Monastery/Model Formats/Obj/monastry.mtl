@@ -1,0 +1,142 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.26
+# URL: http://www.unwrap3d.com
+# Time: Thu Nov 04 20:24:10 2010
+# num_materials: 15
+
+newmtl cobblegrass
+Ka 0.000000 0.000000 0.000000
+Kd 0.820000 0.830000 0.870000
+Ks 0.820000 0.830000 0.870000
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd cobblegrass.dds
+
+newmtl b_four
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.988235 0.988235
+Ks 0.988235 0.988235 0.988235
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_four.dds
+
+newmtl b_one
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_one.dds
+
+newmtl b_six
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.988235 0.988235
+Ks 0.988235 0.988235 0.988235
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_six.dds
+
+newmtl b_five
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.980392 0.980392
+Ks 0.980392 0.980392 0.980392
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_five.dds
+
+newmtl b_three
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.988235 0.988235
+Ks 0.988235 0.988235 0.988235
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_three.dds
+
+newmtl b_eight
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.988235 0.988235
+Ks 0.988235 0.988235 0.988235
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_eight.dds
+
+newmtl b_two
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_two.dds
+
+newmtl b_seven
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_seven.dds
+
+newmtl b_nine
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_nine.dds
+
+newmtl b_ten
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.988235 0.988235
+Ks 0.988235 0.988235 0.988235
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd b_ten.dds
+
+newmtl tile_rockgrass
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd tile_rockgrass.jpg
+
+newmtl maingrass
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd maingrass.jpg
+
+newmtl StoneTiled
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 0.007813
+map_Kd StoneTiled.dds
+
+newmtl MonFloor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd MonFloor.dds
+
+# num_materials: 15

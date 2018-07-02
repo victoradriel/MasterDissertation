@@ -1,0 +1,18 @@
+Thankyou for purchasing the Arteria3d Monastry Pack
+
+You will find various folders within the zip - simply select the model format you wish to use from the Model
+Formats Folder, i.e. B3D, then put this into the Texture folder named 'use these' which are DDS textures
+and 1 jpeg.
+
+We also provide the textures in JPEG format as these have been requested in the past.
+
+
+
+Normal maps are also provided
+
+Torque3d users - if you wish to use DAE format, please use the DAE files within the TORQUE folder as these and the DTS are scaled to torque scale.
+
+
+Enjoy!
+
+Steve, Arteria3d Visionary

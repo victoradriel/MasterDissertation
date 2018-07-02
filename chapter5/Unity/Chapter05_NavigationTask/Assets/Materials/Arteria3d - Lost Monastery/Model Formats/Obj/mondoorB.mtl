@@ -1,0 +1,16 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.26
+# URL: http://www.unwrap3d.com
+# Time: Thu Nov 04 20:24:58 2010
+# num_materials: 1
+
+newmtl MonDoors
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 0.000061
+map_Kd MonDoors.dds
+
+# num_materials: 1
