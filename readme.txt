@@ -1,0 +1,8 @@
+Project: Designing Tactile Vocabularies for Human-Computer Interaction (Master's Dissertation)
+Author: OLIVEIRA, V. A. de J. Advisor: MACIEL, A.
+
+Abstract: This thesis presents a study about tactile languages in human-computer interaction and a novel approach for vibrotactile prefixation. We intended to analyse how the choices made during the design process of tactile vocabularies would affect the user performance on an interactive task. Therefore, we have designed and tested different sets of tactile signals for aid navigation in virtual environments. It leaded us to fashion the concept of Modifier Tactile Pattern for vibrotactile communication which was tested through user experiments. In the assessment of the modifier-based vocabularies we attempted to effects of multisensory stimulation, factors related to the processing of tactile sequences and masking caused by multiple stimuli delivered in a same time. Results show that those participants who used modifier-based vocabularies performed better the navigation task. That and others results related to perception, learning and interpretation of our tactile vocabularies show the validity of the use of modifiers on tactile languages. The statements made from this work will be useful for designing usable tactile interfaces that demand expressive vocabularies.
+
+Keywords: Haptic Interaction, Vibrotactile Communication, Virtual Reality, Navigation.
+
+Link to Dissertation: http://hdl.handle.net/10183/99335
